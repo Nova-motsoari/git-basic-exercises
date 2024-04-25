@@ -1,0 +1,500 @@
+   50  cd ..
+   51  cd task2
+   52  git branch task-1
+   53  cd ..
+   54  cd task1
+   55  git branch task-1
+   56  git switch branch nova-motsoari-patch-1
+   57  git checkout task-1
+   58  git checkout task1
+   59  git switch branch task1
+   60  git switch branch task-1
+   61  git checkout task-1
+   62  cd ..
+   63  cd task11
+   64  git init
+   65  git add .
+   66  git status
+   67  git branch task-1
+   68  git checkout -b task-1
+   69  git commit -m "task1 of coding cahllenges"
+   70  git push -u origin task-1
+   71  git remote add https://github.com/Umuzi-org/Boitumelo-Bontes-219-level-1-programming-katas-javascript.git
+   72  git push -u origin task-1
+   73  git remote set-url origin https://github.com/Umuzi-org/Boitumelo-Bontes-219-level-1-programming-katas-javascript.git
+   74  git remote add https://github.com/Umuzi-org/Boitumelo-Bontes-219-level-1-programming-katas-javascript.git
+   75  git push -u origin task-1
+   76  git remove -v
+   77  git remote -v
+   78  git push -u origin task-1
+   79  git push origin task-1
+   80  git branch
+   81  git push origin task-1
+   82  cd ..
+   83  cd task 1
+   84  cd task1
+   85  git checkout task-1
+   86  git switch branch task-1
+   87  git checkout -b task-1
+   88  git status
+   89  git add .
+   90  git status
+   91  git commit -m "task 1"
+   92  git remote add origin https://github.com/Umuzi-org/Boitumelo-Bontes-219-level-1-programming-katas-javascript.git
+   93  git remote -v
+   94  git push -u origin task-1
+   95  git push -u origin task-1
+   96  git pull https://github.com/Umuzi-org/Boitumelo-Bontes-219-level-1-programming-katas-javascript.git
+   97  git push -u origin task-1
+   98  cd ..
+   99  cd task2
+  100  git init
+  101  git checkout -b task-2
+  102  git status
+  103  git add .
+  104  git commit -m "task2 of coding challenges"
+  105  git status
+  106  git remote add origin https://github.com/Umuzi-org/Boitumelo-Bontes-219-level-1-programming-katas-javascript.git
+  107  git remote -v
+  108  git push -u origin task-2
+  109  cd..
+  110  cd ..
+  111  cd task3
+  112  git init
+  113  git checkout -b task-3
+  114  git status
+  115  git add .
+  116  git status
+  117  git commit -m "task 3 of coding challenges"
+  118  git remote add origin https://github.com/Umuzi-org/Boitumelo-Bontes-219-level-1-programming-katas-javascript.git
+  119  git remote -v
+  120  git push -u origin task-3
+  121  cd ..
+  122  cd task4
+  123  git init
+  124  git checkout -b task-4
+  125  cd ..
+  126  cd task5
+  127  cd ..
+  128  cd gitstuff
+  129  cd 1
+  130  git init
+  131  git checkout main
+  132  git checkout main
+  133  git pull
+  134  git pull main
+  135  git checkout -b task/1
+  136  git status
+  137  git add .
+  138  git status
+  139  git commit -m "task 1 coding challenge"
+  140  git remote add https://github.com/Umuzi-org/Boitumelo-Bontes-219-level-1-programming-katas-javascript.git
+  141  git remote -v
+  142  git remote add origin https://github.com/Umuzi-org/Boitumelo-Bontes-219-level-1-programming-katas-javascript.git
+  143  git remote -v
+  144  git push -u origin task/1
+  145  cd ..
+  146  cd 2
+  147  git init
+  148  git checkout main
+  149  git pull
+  150  git status
+  151  git add .
+  152  git status
+  153  git commit -m "task 2 of coding challenges"
+  154  git remode add https://github.com/Umuzi-org/Boitumelo-Bontes-219-level-1-programming-katas-javascript.git
+  155  git remote add https://github.com/Umuzi-org/Boitumelo-Bontes-219-level-1-programming-katas-javascript.git
+  156  git remote add origin https://github.com/Umuzi-org/Boitumelo-Bontes-219-level-1-programming-katas-javascript.git
+  157  git remote -v
+  158  git checkout -b task/2
+  159  git push -u origin task/2
+  160  cd ..
+  161  cd 3
+  162  git init
+  163  git checkout master
+  164  git checkout main
+  165  git checkout -b task/3
+  166  git status
+  167  git add .
+  168  git commit -m "task 3 of coding challenges"
+  169  git status
+  170  git remote add origin https://github.com/Umuzi-org/Boitumelo-Bontes-219-level-1-programming-katas-javascript.git
+  171  git remote -v
+  172  git push -u origin task/3
+  173  cd ..
+  174  cd 4
+  175  git init
+  176  git checkout -b task/4
+  177  git status
+  178  git add .
+  179  git commit -m "task4 of coding challenges"
+  180  git status
+  181  git remote add origin  https://github.com/Umuzi-org/Boitumelo-Bontes-219-level-1-programming-katas-javascript/pull/new/task/3
+  182  git remote add origin https://github.com/Umuzi-org/Boitumelo-Bontes-219-level-1-programming-katas-javascript.git
+  183  git remote rm origin
+  184  git remote add origin https://github.com/Umuzi-org/Boitumelo-Bontes-219-level-1-programming-katas-javascript.git
+  185  git remote -v
+  186  git push -u origin task/4
+  187  cd ..
+  188  cd 5
+  189  git init
+  190  git status
+  191  git checkout -b task/5
+  192  git add .
+  193  git commit -m "task 5 of coding challenges"
+  194  git status
+  195  git remote add origin https://github.com/Umuzi-org/Boitumelo-Bontes-219-level-1-programming-katas-javascript.git
+  196  git remote -v
+  197  git push -u origin task/5
+  198  cd ..
+  199  cd 6
+  200  git init
+  201  git status
+  202  git checkout -b task/6
+  203  git add .
+  204  git commit -m "task 6 of coding challenges"
+  205  git status
+  206  gir remote add origin https://github.com/Umuzi-org/Boitumelo-Bontes-219-level-1-programming-katas-javascript.git
+  207  git remote -v
+  208  git remote add origin https://github.com/Umuzi-org/Boitumelo-Bontes-219-level-1-programming-katas-javascript.git
+  209  git remote -v
+  210  git push -u origin task/6
+  211  cd ..
+  212  cd 7
+  213  git init
+  214  git status
+  215  git checkout -b task/7
+  216  git add .
+  217  git status
+  218  git commit -m "task 7 of coding challenges"
+  219  git status
+  220  git remote add origin https://github.com/Umuzi-org/Boitumelo-Bontes-219-level-1-programming-katas-javascript.git
+  221  git remote -v
+  222  git push -u orogin tasl/7
+  223  git push -u origin task/7
+  224  cd documents
+  225  cd umuzi
+  226  ls
+  227  cd taskstodo
+  228  ls
+  229  cd tasks
+  230  ls
+  231  cd gitstuff
+  232  ls
+  233  cd 8
+  234  ls
+  235  git init
+  236  git checkout -b person
+  237  git status
+  238  git add .
+  239  git status
+  240  git commit -m "OOP for person"
+  241  git remote add https://github.com/Umuzi-org/Boitumelo-Bontes-223-person-javascript.git
+  242  git remote -v
+  243  git remote -v
+  244  git status
+  245  git remote add https://github.com/Umuzi-org/Boitumelo-Bontes-223-person-javascript.git
+  246  git remote -v
+  247  git push push -u origin person
+  248  git status
+  249  cd ../..
+  250  pwd
+  251  cd download
+  252  cd downloads
+  253  cd gits
+  254  ls
+  255  cd task1
+  256  ls
+  257  git branch
+  258  git init
+  259  git add .
+  260  git status
+  261  git commit -m "task1"
+  262  git checkout main
+  263  git pull
+  264  git checkout -b task/1
+  265  git status
+  266  git remote add origin https://github.com/Umuzi-org/Boitumelo-Bontes-219-level-1-programming-katas-javascript.git
+  267  git remote -v
+  268  git push -origin task/1
+  269  git push -origin main
+  270  git push -u origin task/1
+  271  cd ..
+  272  cd task2
+  273  git checkout main
+  274  git init
+  275  git status
+  276  gid add .
+  277  git add .
+  278  git checkout main
+  279  git checkout master
+  280  git clone https://github.com/Umuzi-org/Boitumelo-Bontes-219-level-1-programming-katas-javascript.git 
+  281  cd downloads
+  282  cd gits
+  283  cd task3
+  284  cd ..
+  285  cd ..
+  286  cd Boitumelo-Bontes-219-level-1-programming-katas-javascript
+  287  git clone https://github.com/Umuzi-org/Boitumelo-Bontes-219-level-1-programming-katas-javascript.git
+  288  ls
+  289  cd Boitumelo-Bontes-219-level-1-programming-katas-javascript
+  290  git checkout main
+  291  git pull
+  292  git checkout -b task/1
+  293  emacs task1.js
+  294  ls
+  295  ls
+  296  ls
+  297  git status
+  298  git diff
+  299  git add task1.js
+  300  git commit -m "task1"
+  301  git push origin task/1
+  302  pwd
+  303  cd downloads
+  304  cd Boitumelo-Bontes-219-level-1-programming-katas-javascript
+  305  git checkout main
+  306  git pull
+  307  git status
+  308  git checkout -b task/2
+  309  gitdiff
+  310  git diff
+  311  git add task2.js
+  312  git status
+  313  git commit -m "task 2"
+  314  git push origin task/2
+  315  git checkout main
+  316  git pull
+  317  git status
+  318  git checkout task/3
+  319  git checkout -b task/3
+  320  git add task3.js
+  321  git commit -m "task 3"
+  322  git push origin task/3
+  323  git checkout main
+  324  git status
+  325  git checkout -b task/4
+  326  git add task4.js
+  327  git commit -m "task 4"
+  328  git push origin task/4
+  329  git checkout main
+  330  git status
+  331  git checkout -b task/5
+  332  git add task5.js
+  333  git commit -m "task 5"
+  334  git push origin task/5
+  335  git checkout main
+  336  git status
+  337  git checkout -b  task/6
+  338  git add task6.js
+  339  git commit -m "task 6"
+  340  git push origin task/6
+  341  git checkout main
+  342  git checkout -b task/7
+  343  git add task7.js
+  344  git commit -m "task 7"
+  345  git push origin task/7
+  346  pwd
+  347  cd downloads
+  348  mkdir git-basic-exercises
+  349  cd git-basic-exercises
+  350  ls -a
+  351  git init
+  352  ls -a
+  353  git log
+  354  git status
+  355  touch README.md
+  356  git status
+  357  git log
+  358  git add .
+  359  git commit -m "initial commit"
+  360  git log
+  361  nano README.md
+  362  cat README.md
+  363  git status
+  364  git add .
+  365  git commit -m "Second commit"
+  366  nano README.md
+  367  git add .
+  368  git status
+  369  git commit -m "third commit"
+  370  git log
+  371  git checkout 0f4d73233128b9d1e8b1cf31ba8af46d2e27515c
+  372  cat README.md
+  373  git checkout main
+  374  git checkout master
+  375  git branch
+  376  git checkout -b milkshake-flavours
+  377  git checkout master
+  378  git branch
+  379  git checkout milkshake-flavours
+  380  git status
+  381  nano milkshakes.md
+  382  git status
+  383  git add .
+  384  git commit -m "added initial flavours"
+  385  git log
+  386  git checkout master
+  387  git checkout -b history
+  388  git branch
+  389  git checkout master
+  390  history > history.txt
+  391  git checkout history
+  392  git status
+  393  git add .
+  394  git commit -m "added history"
+  395  git checkout milkshake-flavours
+  396  nano README.md
+  397  git add .
+  398  git commit -m "random readme chanes"
+  399  git checkout history
+  400  cat README.md
+  401  rm README.md
+  402  echo "booya" > README.md
+  403  git status
+  404  git add .
+  405  git commit -m "rewrote readme"
+  406  git checkout master
+  407  ls
+  408  git log
+  409  git checkout milkshake-flavours
+  410  ls
+  411  git checkout master
+  412  git merge milkshake-flavours
+  413  git log
+  414  git checkout history
+  415  git merge main
+  416  git merge master
+  417  git remote add origin https://github.com/Nova-motsoari/git-basic-exercises.git
+  418  git branch -M main
+  419  git push -u origin main
+  420  git checkout main
+  421  git checkout history
+  422  git log
+  423  git merge main
+  424  git status
+  425  git add .
+  426  git merge main
+  427  git commit -m 
+  428  git commit
+  429  git status
+  430  git merge main
+  431  git checkout history
+  432  ls
+  433  git branch
+  434  git checkout master
+  435  git remote add origin https://github.com/Nova-motsoari/git.git
+  436  git branch -M master
+  437  git push -u origin master
+  438  git branch
+  439  ls
+  440  git branch -M main
+  441  git push -u origin main
+  442  git branch -M milkshake-flavours
+  443  git push -u origin milkshake-flavours
+  444  cd ../
+  445  git clone https://github.com/Umuzi-org/a-repo-to-clone.git
+  446  cd a-repo-to-clone
+  447  git branch
+  448  git branch -a
+  449  checkout a-branch-with-a-few-comits
+  450  git checkout a-branch-with-a-few-comits
+  451  git checkout a-branch-with-a-few-commits
+  452  cd ../
+  453  mkdir this-will-be-another-repo
+  454  cd this-will-be-another-repo
+  455  git init
+  456  touch README.md
+  457  git add .
+  458  git commit 
+  459  git commit -m ""
+  460  git commit -m "commit"
+  461  cd ../
+  462  cd git-basic-exercises
+  463  git checkout master
+  464  touch ignore-me.db
+  465  git status
+  466  nano .gitignore
+  467  git status
+  468  nano gitignore
+  469  git status
+  470  mkdir large-directory-that-should-be-local-only
+  471  cd large-directory-that-should-be-local-only
+  472  touch README.md
+  473  nano README.md
+  474  ls
+  475  cd ...
+  476  cd ..
+  477  git status
+  478  nano .gitignore
+  479  git status
+  480  git status
+  481  git add .gitignore
+  482  git commit -m "added .gitignore"
+  483  git push -u origin master
+  484  git clone https://github.com/Nova-motsoari/ThisIsMe.git
+  485  pwd
+  486  cd ThisIsMe
+  487  ls
+  488  cd ..
+  489  cd downloads
+  490  mkdir newProj
+  491  cdnewProj
+  492  git clone https://github.com/Nova-motsoari/ThisIsMe.git
+  493  cd ThisIsMe
+  494  git status
+  495  git add .
+  496  git status
+  497  git commit -m "added some changes"
+  498  git push -u origin main
+  499  git clone git@github.com:Umuzi-org/Boitumelo-Bontes-963-contentitem-.git
+  500  cd downloads
+  501  cd ThisIsMe
+  502  git status
+  503  git add .
+  504  git status
+  505  git commit -m "minor updates"
+  506  git push -u origin main
+  507  cd ..
+  508  cd newProj
+  509  mkdir git-basic-exercises
+  510  cd git-basic-exercises
+  511  ls -a
+  512  git init
+  513  git status
+  514  touch README.md
+  515  ls -a
+  516  git status
+  517  git log
+  518  git add README.md
+  519  git status
+  520  git reset README.md
+  521  git status
+  522  git add README.md
+  523  git commit -m "initial commit"
+  524  git log
+  525  nano README.md
+  526  cat README.md
+  527  git status
+  528  git commit -m "Second commit"
+  529  git add .
+  530  git commit -m "second commit"
+  531  nano README.md
+  532  git add .
+  533  git commit -m "third commit"
+  534  git log
+  535  git checkout 7c0d1b2b0d6086827ae8c5140c85f58492a64cd5
+  536  cat README.md
+  537  git checkout master
+  538  cat README.md
+  539  git branch
+  540  git branch milkshake-flavours
+  541  git checkout milkshake-flavours
+  542  nano milkshakes.md
+  543  git status
+  544  git commit -m "added initial flavours"
+  545  git log
+  546  git checkout master
+  547  git branch history
+  548  git checkout history
+  549  history > history.txt
